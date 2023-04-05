@@ -2,6 +2,7 @@ import 'package:firebase_auth/firebase_auth.dart' as authFB;
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 import '../models/user.dart';
+import 'package:twitter/models/user.dart';
 
 enum Errors {
   none,
