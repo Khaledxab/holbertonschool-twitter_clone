@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:twitter/models/user.dart';
+import '../../../../../tests/to move/models/user.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 
 final _firestore = FirebaseFirestore.instance;
